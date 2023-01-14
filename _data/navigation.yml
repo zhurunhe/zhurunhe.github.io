@@ -6,4 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-        
+  - title: "Experiences"
+    url: /experiences/
+
+  - title: "Awards & Honors"
+    url: /awards-honors/
+
+  - title: "Professional Activities"
+    url: /professional-activities/

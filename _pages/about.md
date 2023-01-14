@@ -15,4 +15,5 @@ My research primarily focuses on the intersection of humans and built environmen
 
 News
 ======
-[12/2022] I 
+[01/2023] One to two fully-funded positions for Ph.D. students are available. Please contact me if you are interested! 
+[12/2022] I joined Florida International University as an Assistant Professor in the Moss School of Construction, Infrastructure and Sustainability. 

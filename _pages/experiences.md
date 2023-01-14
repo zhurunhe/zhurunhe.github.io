@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Experiences"
+permalink: /experiences/
 ---
 
 

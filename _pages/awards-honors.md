@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Awards & Honors"
+permalink: /awards-honors/
 ---
 
 

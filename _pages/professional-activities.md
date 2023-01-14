@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Professional Activities"
+permalink: /professional-activities/
 ---
 
 

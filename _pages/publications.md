@@ -17,12 +17,14 @@ _Scientific reports, 2022_ [https://doi.org/10.1038/s41598-022-04922-8](https://
 Becerik-Gerber, B., Lucas, G.M., Aryal, A., Awada, M., Bergés, M., Billington, S.L., Boric-Lubecke, O., Ghahramani, A., Heydarian, A., Jazizadeh, F., Liu, R., **Zhu, R.**, Marks, F., Roll, S., Seyedrezaei, M., Taylor, J.E., Höelscher, C., Khan, A., Langevin, J., Mauriello, M.L., Murnane, E., Noh, H., Pritoni, M., Schaumann, D., & Zhao, J.\
 _Building and Environment, 2022_ [https://doi.org/10.1016/j.buildenv.2022.109681](https://doi.org/10.1016/j.buildenv.2022.109681)
 
+- ****
+
 - **An integrated emotional and physiological assessment for VR-based active shooter incident experiments.**\
 Awada, M., **Zhu, R.**, Becerik-Gerber, B., Lucas, G.M., & Southers, E.G.\
 _Advanced Engineering Informatics, 2021_ [https://doi.org/10.1016/j.aei.2020.101227](https://doi.org/10.1016/j.aei.2020.101227)
 
 - **Building preparedness in response to active shooter incidents: Results of focus group interviews.**\
-**Zhu, R.**, Lucas, G.M., Becerik-Gerber, B., & Southers, E.G.\ 
+**Zhu, R.**, Lucas, G.M., Becerik-Gerber, B., & Southers, E.G.\
 _International Journal of Disaster Risk Reduction, 2020_ [https://doi.org/10.1016/j.ijdrr.2020.101617](https://doi.org/10.1016/j.ijdrr.2020.101617)
 
 - **Human-building-emergency interactions and their impact on emergency response performance: A review of the state of the art.**\
@@ -41,4 +43,11 @@ _Safety Science, 2020_ [https://doi.org/10.1016/j.ssci.2019.104540](https://doi.
 Lin, J., **Zhu, R.**, Li, N., & Becerik-Gerber, B.\
 _Advanced Engineering Informatics, 2020_ [https://doi.org/10.1016/j.aei.2020.101040](https://doi.org/10.1016/j.aei.2020.101040)
 
+- **A hybrid BN-HFACS model for predicting safety performance in construction projects.**\
+Xia, N., Zou, P.X., Liu, X., Wang, X., & **Zhu, R.**\
+_Safety Science, 2018_ [https://doi.org/10.1016/j.ssci.2017.09.025](https://doi.org/10.1016/j.ssci.2017.09.025)
+
 ## Conference Proceedings
+- **Modeling the impact of visual access and crowd flow on emergency wayfinding: From empirical investigations to simulations.**\
+**Zhu, R.**, Becerik-Gerber, B., Lin, J., & Li, N.\
+_ASCE International Conference on Computing in Civil Engineering, 2021_ [https://doi.org/10.1061/9780784483893.031](https://doi.org/10.1061/9780784483893.031)

@@ -1,12 +1,22 @@
 ---
-title: "Professional & Academic Services"
+title: "Services"
 permalink: /services/
 ---
 
 
 ## Reviewer
-- **BCN 5784: Construction Information Systems**
-	- Spring 2023
+- Advanced Engineering Informatics
+- Automation in Construction
+- Building and Environment
+- Energy and Buildings
+- International Journal of Disaster Risk Reduction
+- Journal of Computing in Civil Engineering
+- Scientific Reports
+- Safety Science
+- Tunnelling and Underground Space Technology
+- 2022 International Conference on Construction Engineering and Project Management
+- 2020 ASCE Construction Research Congress
+- 2019 ASCE International Conference on Computing in Civil Engineering
 
 
 ## outreach

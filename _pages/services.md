@@ -20,9 +20,6 @@ permalink: /services/
 
 
 ## outreach
-- TA for **CE 460: Construction Engineering**
-	- Fall 2017, Fall 2018
-- TA for **CE 502: Construction Accounting and Finance**
-	- Spring 2018
-- TA for **CE 470: Building Information Modeling and Integrated Practice**
-	- Spring 2019
+- Attended the 2022 **Southern California Graduate Pathways to STEM Conference (SoCal GPS)** as a roundtable speaker to promote graduate school to underrepresented, first generation, and low income rising leaders in Southern California and its neighboring areas.
+- Served as a research mentor for **USC Viterbi Summer Institute** and the **Summer High School Intensive in Next-Generation Engineering** geared towards students from underrepresented backgrounds.
+- Hosted an online learning session about sustainable buildings for **Technovation** (a global tech education nonprofit) and engaged 20 female children in a hands-on project related to sustainability.

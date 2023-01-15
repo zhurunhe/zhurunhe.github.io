@@ -5,7 +5,7 @@ permalink: /experiences/
 
 
 - **Assistant Professor**, 12/2022 - Present\
-Moss School of Construction, Infrastructure and Sustainability, FIU
+Moss School of Construction, Infrastructure and Sustainability, Florida International University
 
 - **Machine Learning Engineer Intern**, 05/2022 - 08/2022\
 Signals Intelligence Team, Meta Platforms, Inc.
@@ -17,4 +17,4 @@ Risk Engineering Division, The Goldman Sachs Group, Inc.
 The Alan Turing Institute
 
 - **Graduate Assistant**, 08/2017 - 08/2022\
-Sonny Astani Department of Civil and Environmental Engineering, USC
+Sonny Astani Department of Civil and Environmental Engineering, University of Southern California

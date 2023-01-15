@@ -18,7 +18,7 @@ Becerik-Gerber, B., Lucas, G.M., Aryal, A., Awada, M., Bergés, M., Billington, 
 _Building and Environment, 2022_ [[paper]](https://doi.org/10.1016/j.buildenv.2022.109681)
 
 - **The field of human building interaction for convergent research and innovation for intelligent built environments.**\
-Becerik-Gerber, B., Lucas, G.M., Aryal, A., Awada, M., Bergés, M., Billington, S.L., Boric-Lubecke, O., Ghahramani, A., Heydarian, A., Höelscher, C., Jazizadeh, F., Khan, A., Langevin, J., Liu, R., Marks, F., Mauriello, M.L., Murnane, E., Noh, H., Pritoni, M., Roll, S., Schaumann, D., Seyedrezaei, M., Taylor, J.E., Zhao, J. & Zhu, R.\
+Becerik-Gerber, B., Lucas, G.M., Aryal, A., Awada, M., Bergés, M., Billington, S.L., Boric-Lubecke, O., Ghahramani, A., Heydarian, A., Höelscher, C., Jazizadeh, F., Khan, A., Langevin, J., Liu, R., Marks, F., Mauriello, M.L., Murnane, E., Noh, H., Pritoni, M., Roll, S., Schaumann, D., Seyedrezaei, M., Taylor, J.E., Zhao, J. & **Zhu, R.**\
 _Scientific reports, 2022_ [[paper]](https://doi.org/10.1038/s41598-022-25047-y)
 
 
@@ -59,6 +59,6 @@ _ASCE International Conference on Computing in Civil Engineering, 2021_ [[paper]
 **Zhu, R.**, Becerik-Gerber, B., Lucas, G.M., Southers, E.G., & Pynadath, D.V.\
 _ASCE International Conference on Computing in Civil Engineering, 2019_ [[paper]](https://doi.org/10.1061/9780784482445.024)
 
-- **Virtual reality-based studies of human emergency behavior in built environments: A systematic review.**
+- **Virtual reality-based studies of human emergency behavior in built environments: A systematic review.**\
 **Zhu, R.**, Lin, J., Becerik-Gerber, B., & Li, N.\
 _International Conference on Construction Applications of Virtual Reality, 2018_ [[paper]](https://www.researchgate.net/profile/Jing-Lin-10/publication/334120627_VIRTUAL_REALITY-BASED_STUDIES_OF_HUMAN_EMERGENCY_BEHAVIOR_IN_BUILT_ENVIRONMENTS_A_SYSTEMATIC_REVIEW/links/5d18a3dba6fdcc2462b14825/VIRTUAL-REALITY-BASED-STUDIES-OF-HUMAN-EMERGENCY-BEHAVIOR-IN-BUILT-ENVIRONMENTS-A-SYSTEMATIC-REVIEW.pdf)

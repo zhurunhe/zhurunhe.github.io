@@ -4,7 +4,6 @@ permalink: /experiences/
 ---
 
 
-## Florida International University
 - **BCN 5784: Construction Information Systems**
 	- Spring 2023
 

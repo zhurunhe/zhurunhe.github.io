@@ -4,14 +4,13 @@ permalink: /experiences/
 ---
 
 
-- **BCN 5784: Construction Information Systems**
-	- Spring 2023
+- **Assistant Professor**, Florida International University, 12/2022 - Present
+Moss School of Construction, Infrastructure and Sustainability
 
+- **Machine Learning Engineer Intern**, Meta Platforms, Inc., 05/2022 - 08/2022
+Signals Intelligence Team
 
-## University of Southern California
-- TA for **CE 460: Construction Engineering**
-	- Fall 2017, Fall 2018
-- TA for **CE 502: Construction Accounting and Finance**
-	- Spring 2018
-- TA for **CE 470: Building Information Modeling and Integrated Practice**
-	- Spring 2019
+- **Visiting Researcher**, The Alan Turing Institute, 06/2018 - 07/2018
+
+- **Graduate Assistant**, University of Southern California, 08/2017 - 08/2022
+Sonny Astani Department of Civil and Environmental Engineering   

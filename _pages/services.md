@@ -19,7 +19,7 @@ permalink: /services/
 - 2019 ASCE International Conference on Computing in Civil Engineering
 
 
-## outreach
-- Attended the 2022 **Southern California Graduate Pathways to STEM Conference (SoCal GPS)** as a roundtable speaker to promote graduate school to underrepresented, first generation, and low income rising leaders in Southern California and its neighboring areas.
-- Served as a research mentor for **USC Viterbi Summer Institute** and the **Summer High School Intensive in Next-Generation Engineering** geared towards students from underrepresented backgrounds.
-- Hosted an online learning session about sustainable buildings for **Technovation** (a global tech education nonprofit) and engaged 20 female children in a hands-on project related to sustainability.
+## Outreach
+- Attended the 2022 **Southern California Graduate Pathways to STEM Conference (SoCal GPS)** as a roundtable speaker to promote graduate studies to underrepresented, first-generation, and low-income students in Southern California and its neighboring areas.
+- Served as a research mentor for the **USC Viterbi Summer Institute** and the **Summer High School Intensive in Next-Generation Engineering** that aimed at providing opportunities for underrepresented students to gain exposure and experience in the field of engineering.
+- Hosted an online learning session about sustainable buildings for **Technovation** (a global tech education nonprofit) and engaged 20 young girls in a hands-on project related to sustainability.
